@@ -1,1 +1,2 @@
-# Apis
+npm install
+npm run start
